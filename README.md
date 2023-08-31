@@ -50,7 +50,7 @@ These functions can be done in a single download** 😍
 
 ## 💠 Easy Way :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/ashesOFpheonix)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/ashesOFpheonix)
 
 Note: YouTube downloads having some errors when deployed in heroku. Try other vps to test if possible.
 
